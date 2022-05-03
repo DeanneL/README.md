@@ -4,4 +4,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Deanne for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Deanne](https://github.com/DeanneL) for the Lighthouse Labs Web Development Bootcamp.
